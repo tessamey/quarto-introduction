@@ -1,0 +1,21 @@
+---
+title: "Introduction to Quarto"
+subtitle: "Data Documentation" 
+date: today
+format:
+  revealjs:
+    slide-number: true
+---
+
+## Slide 1
+
+Hello 👋
+
+---
+
+## Slide 2
+
+- Point A
+- Point B
+
+---
