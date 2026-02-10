@@ -264,7 +264,17 @@ git push
 * use GitHub Pages when the source code for the document/website is hosted on GitHub
 * Alternatives: Posit Connect, Hugging Face Spaces, Quarto Pub etc. (see [here](https://quarto.org/docs/publishing/) for details)
 
-
+![](images/GitHubpages.png){height=300px}
 
 
 ---
+
+## Further Reading & References
+
+- [Official Quarto Documentation](https://quarto.org)
+- [Quartaki](https://drmowinckels.io/quartaki/) by Dr. Mowinckel
+- [Helpful source collection](https://github.com/mcanouil/awesome-quarto?tab=readme-ov-file)
+
+---
+
+# Questions?
