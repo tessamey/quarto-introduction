@@ -242,6 +242,15 @@ quarto render
 
 ![](images/github.png){height=300px}
 
+**Terminal:**
+```{.python code-line-numbers="1-60"}
+git status
+git add .
+git commit -m "Your commit message"
+git push
+```
+
+
 
 ---
 
