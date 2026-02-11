@@ -225,6 +225,20 @@ quarto render
 [PREACT-digital example](https://leona-ha.github.io/preact_digital/quarto/documentation.html#data-structure)
 
 
+---
+
+## Key Considerations for Deciding Whether to Use Quarto & GitHub Pages for your Data Documentation
+
+1. **Time and staff capacity:** Enough time and personel capacities to set it up? 
+
+    - Does the setup effort justify the benefit?
+    (PDFs may be quicker for simple and not so extensive documentation)
+2. **Public accessibility**
+  
+    - Websites published via GitHub Pages are publicly accessible by default (cost-free)
+    - To publish a site privately (e.g., for only FOR intern use), you must use [GitHub Enterprise Cloud](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/setting-up-a-trial-of-github-enterprise-cloud) (not cost-free)
+    - Alternatives: see [here](https://quarto.org/docs/publishing/)
+
 
 
 ---
@@ -278,3 +292,4 @@ git push
 ---
 
 # Questions?
+
